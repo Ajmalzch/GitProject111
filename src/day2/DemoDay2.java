@@ -20,7 +20,7 @@ public class DemoDay2 {
 	}
         //divide
 	public static void divide (int a, int b) {
-		System.out.println (a-b);
+		System.out.println (a/b);
 	}
 
 	//Add Method ()
